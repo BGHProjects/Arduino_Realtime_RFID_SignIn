@@ -7,7 +7,7 @@ Arduino project that alerts the user at the time that they 'sign in' when they u
 * Wire.h
 * DS3231.h
 
-## Componentts Used:
+## Components Used:
 * 1 x Arduino Uno
 * 1 x RC522 RFID module
 * 1 x DS1307 RTC module
