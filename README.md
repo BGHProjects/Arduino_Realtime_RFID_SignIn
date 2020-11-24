@@ -11,7 +11,7 @@ Arduino project that alerts the user at the time that they 'sign in' when they u
 * 1 x Arduino Uno
 * 1 x RC522 RFID module
 * 1 x DS1307 RTC module
-* 11 x F-M Dupont wires
+* 11 x F-M DuPont wires
 
 ## Description:
 Project that logs the real-time when the user scans an RFID tag or card, and displays this to the Serial Monitor
